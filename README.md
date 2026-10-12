@@ -22,7 +22,7 @@ A clean calculator for basic math: add, subtract, multiply and divide.
 
 ## 🛠️ Run it on your computer
 ```bash
-git clone https://github.com/abdulsattarnangri7-desktoop/calculator-app.git
+git clone https://github.com/abdulsattar1-dev/calculator-app.git
 cd calculator-app
 npm install
 npm run dev
@@ -34,4 +34,4 @@ React 19 · Vite · CSS Grid
 
 ## 👤 Author
 **Abdul Sattar** — WordPress & React Developer
-[GitHub](https://github.com/abdulsattarnangri7-desktoop) · [Portfolio](http://abdulsattarportfolio.free.nf)
+[GitHub](https://github.com/abdulsattar1-dev) · [Portfolio](http://abdulsattarportfolio.free.nf)
