@@ -1,16 +1,37 @@
-# React + Vite
+# 🧮 Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A clean calculator for basic math: add, subtract, multiply and divide.
 
-Currently, two official plugins are available:
+**🔗 Live demo:** https://calculator-app-nine-ashen.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- Number buttons 0–9 and the decimal point
+- Operators: + − × ÷
+- **Clear** button to start again
+- **Delete** button to remove the last character
+- Shows the calculation and the answer on the screen
+- Shows **Error** for a wrong calculation
+- Only numbers and math symbols are calculated (safe input check)
 
-## React Compiler
+## 🧠 What I learned
+- Making many buttons from one array with `map()`
+- Handling click events with one function
+- Two pieces of state working together (input and result)
+- CSS Grid for the button layout
+- `try / catch` for errors
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Run it on your computer
+```bash
+git clone https://github.com/abdulsattarnangri7-desktoop/calculator-app.git
+cd calculator-app
+npm install
+npm run dev
+```
+Then open http://localhost:5173
 
-## Expanding the Oxlint configuration
+## 📦 Built with
+React 19 · Vite · CSS Grid
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 👤 Author
+**Abdul Sattar** — WordPress & React Developer
+[GitHub](https://github.com/abdulsattarnangri7-desktoop) · [Portfolio](http://abdulsattarportfolio.free.nf)
